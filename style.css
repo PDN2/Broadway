@@ -28,6 +28,8 @@ a {
 }
 
 footer {
+  display: flex;
+  align-items: center;
   font-size: 11px;
   color: white;
   background-color: dimgray;
